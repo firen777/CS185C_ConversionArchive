@@ -1,0 +1,5 @@
+Wintry white wisps wondrously whirl: 0.008472435025555773
+Soft sparkling snowflakes silently swirl: 0.012439074805860005
+Coolly carpeting countrysides carefully: -0.020833333333333332
+Dazzling diamonds dancing delightfully: 0.17708333333333331
+<<overall>>: 0.17716150983141576
